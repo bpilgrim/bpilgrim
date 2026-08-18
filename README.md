@@ -38,7 +38,7 @@ Integrating AI into traditional software engineering. Agentic tooling, AI-assist
 
 #### 🛠 Core stack
 
-`C#/.NET` · `Python` · `TypeScript/JavaScript` · `SQL Server` · `PostgreSQL` · `WPF · Blazor · ASP.NET` · `Anthropic Claude · OpenAI Codex · Copilot`
+`C#/.NET` · `Python` · `TypeScript/JavaScript` · `SQL Server` · `PostgreSQL` · `WPF · Blazor · ASP.NET` · `Anthropic Claude · OpenAI Codex · GitHub Copilot`
 
 ---
 
