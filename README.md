@@ -1,8 +1,8 @@
 ### Barry Pilgrim
 
-**Senior Software Engineer & Technical Lead. 20+ years building enterprise .NET systems, now building AI-native software.**
+**Senior Software Engineer & Technical Lead. 25+ years building enterprise .NET systems, now building AI-native software.**
 
-I spent two decades building and leading mission-critical systems in legal, financial, and B2B data platforms. I have been independent since November 2024, and I used that time to go deep on AI in real engineering. Not demos. Production architecture.
+I spent nearly three decades building and leading mission-critical systems in legal, financial, and B2B data platforms. I have been independent since November 2024, and I used that time to go deep on AI in real engineering. Not demos. Production architecture.
 
 The projects below are that work. I built them the way I build for a client, under real constraints.
 
@@ -34,7 +34,7 @@ A Winamp-inspired player for large local media libraries, built around a custom 
 
 #### 🧭 Focus
 
-Integrating AI into traditional software engineering. Agentic tooling, AI-assisted development workflows, and data-driven applications, built with the architecture and delivery discipline of 20 years in enterprise systems.
+Integrating AI into traditional software engineering. Agentic tooling, AI-assisted development workflows, and data-driven applications, built with the architecture and delivery discipline of 25 years in enterprise systems.
 
 #### 🛠 Core stack
 
@@ -42,4 +42,4 @@ Integrating AI into traditional software engineering. Agentic tooling, AI-assist
 
 ---
 
-📍 Scotch Plains, NJ  ·  📧 bjp.business@gmail.com
+📍 Scotch Plains, NJ  ·  📧 barry.pilgrim@gmail.com
