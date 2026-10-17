@@ -1,6 +1,6 @@
 ### Barry Pilgrim
 
-**Senior Software Engineer & Technical Lead. 25+ years building enterprise .NET systems, now building AI-native software.**
+**Senior Software Engineer & Technical Lead. 20+ years building enterprise .NET systems, now building AI-native software.**
 
 I spent nearly three decades building and leading mission-critical systems in legal, financial, and B2B data platforms. I have been independent since November 2024, and I used that time to go deep on AI in real engineering. Not demos. Production architecture.
 
